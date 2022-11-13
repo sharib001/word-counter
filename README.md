@@ -1,0 +1,1 @@
+<h3>This is a simple word and char counter webpage </h3>
